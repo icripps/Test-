@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # login_app
 
 A new Flutter project.
@@ -19,3 +20,6 @@ amples, guidance on mobile development, and a full API reference.
 # Test-
 testing my skiils
 >>>>>>> dc519720e221aed253387d3db393d120ee787ad8
+=======
+
+>>>>>>> a9118a430e1ef8d1cc8ef65c8e0eb92b6d1da678
